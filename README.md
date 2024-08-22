@@ -3,6 +3,8 @@
 ## 📘 Introduction
 This project focuses on predicting crop prices using machine learning models. The dataset includes various features like rainfall, area, season, and more to accurately forecast the prices of crops.
 
+![Crop Price Prediction Image](https://github.com/Prakashpsk/-Agriculture-Product-Price-Prediction-/blob/main/maxresdefault.jpg)
+
 ## 🛠️ Skills/Concepts Developed
 - **Machine Learning**
 - **Data Cleaning**
